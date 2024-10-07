@@ -1,5 +1,5 @@
 #!/bin/env python3
-# (c) @AbirHasan2005
+# (c) @Anonymous41145
 # Telegram Group: http://t.me/linux_repo
 # Please give me credits if you use any codes from here.
 
