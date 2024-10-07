@@ -23,9 +23,8 @@ def banner():
 banner()
 
 print(gr + "[+] Installing requirements...")
-if os.system('python3 -m pip install telethon') != 0:
-    print(re + "[!] Failed to install telethon.")
-    sys.exit(1)
+os.system('python3 -m pip install telethon')
+os.system('pip3 install telethon')
 
 banner()
 if not os.path.exists('config.data'):
